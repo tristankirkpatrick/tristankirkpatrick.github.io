@@ -1,0 +1,31 @@
+---
+title:  "New blog with GitHub Pages and Jekyll!"
+date:   14-02-2016 10:18:00
+description: Check me out.
+---
+
+## 1.	What's my job title and where do I work
+
+I am seven months into my NQT year, working at a very small secondary school in North Yorkshire as the only ICT/Computing specialist. I did my PGCE year in a very large school in West Yorkshire, but came back to live in the countryside. The school day is demanding, I'm learning something new every day and I'm striving to systemise the school year to make things a little bit easier next year. On joining the school, I also took responsibility for a developing leader role in which I develop and deploy small, whole-school systems. 
+
+## 2.	What am I currently working on?
+Teaching, marking and planning are the big ones on the list at the moment. Controlled Assessments and marking policies are completely new to me, but I'm getting my head around it and things are getting smoother. 
+
+At the start of the school year I was involved in helping Matt Britland launch his excellent computing and ICT curriculum. In January I introduced Google Apps for Education to the school (it's fantastic) and have been trialling other LMS and VLE systems. I have also been developing some systems for the school to track behaviour and rewards so that students can check their performance online. I've been involved in the PR of the school and trying to get the word out that it's great, safe place for the students' development.
+
+I plan to launch my own curriculum (inspired by Matt's) with a heavier emphasis on Computing in the Summer.
+
+## 3.Where have I come from?
+I had no idea that I would turn out to be a teacher when I was doing my Music Production degree at University. At that time I wanted to be in a rock band, wanted to play shows and wanted zero responsibility for anything but my bass guitar! I think it dawned on me that been a rock star isn't exactly a secure plan for a successful career, so I started to record bands rather than play music. My plan was to rent studio space and run my own business from there, until home-recording became so popular that it was practically impossible for a producer to make a living from studio work.
+
+I was asked by an old friend to go and do a music production workshop at a school that I lived close to. I went, completely not expecting to put my PGCE application in three days later - I loved it!
+
+## 4.	What gets me up in the morning?
+iPhone, iPad and soon to be Apple Watch will be waking me up with force!
+
+## 5.	What keeps me awake at night?
+Scrolling through YouTube at the new bands and artists currently breaking through a cluttered music scene!
+
+## 6. Who inspires me?
+All of the hardworking staff at the school in which I work.
+
