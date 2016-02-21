@@ -17,7 +17,7 @@ disqus_shortname: 'tristankirkpatrick'
 # Details for the RSS feed generator
 url:            'http://your-blog-url.example.com'
 author:         'Tristan Kirkpatrick'
-authorTwitter:  'YourTwitterUsername'
+authorTwitter:  'tristan_ICTCS'
 
 permalink:       /:year/:title/
 
