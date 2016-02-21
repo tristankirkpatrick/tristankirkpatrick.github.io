@@ -1,7 +1,7 @@
 ---
-title:  "New blog with GitHub Pages and Jekyll!"
-date:   14-02-2016 10:18:00
-description: Check me out.
+title:  "Who Am I?!"
+date:   21-02-2016 10:18:00
+description: A brief introduction.
 ---
 
 ## 1.	What's my job title and where do I work
