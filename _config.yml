@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Tristan Kirkpatrick
+description: Blogging about Teaching, Gadgets and Anything EdTech
+meta_description: "Blogging about Teaching, Gadgets and Anything EdTech"
 
 aboutPage: true
 
@@ -9,10 +9,10 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://www.teachthemtocode.com'
 google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
-disqus_shortname: 'your-disqus-shortname'
+disqus: true
+disqus_shortname: 'tristankirkpatrick'
 
 # Details for the RSS feed generator
 url:            'http://your-blog-url.example.com'
